@@ -96,7 +96,7 @@ To try out the game:
 
 ## 🙋‍♂️ Author
 
-- **Your Name** – [Your GitHub Profile](https://github.com/yourusername)
+- **Your Name** – https://github.com/JEGANBALAJI-06
 
 ---
 
